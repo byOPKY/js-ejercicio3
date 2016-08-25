@@ -3,6 +3,6 @@ Objetivo: Un algoritmo por determinar el sueldo semanal de un trabajador con bas
 .   
   
 **Contexto**:  
-*Ingresar las horas que se trabaja    
-*Ingresar el pago por hora  
-*Automaticamente sale el total del sueldo semanal en el Browser.  
+* Ingresar las horas que se trabaja    
+* Ingresar el pago por hora  
+* Automaticamente sale el total del sueldo semanal en el Browser.  
